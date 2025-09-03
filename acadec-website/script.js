@@ -1,0 +1,1 @@
+function expand(){const a=document.getElementById("navbar");count%2==0?a.setAttribute("style","max-height: 100%"):a.setAttribute("style","max-height: 0"),count++}var count=0;
